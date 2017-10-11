@@ -4,11 +4,11 @@ No more unbearable grooming/planning estimation sessions
 """
 
 from slackclient import SlackClient
-from welcome_message import WelcomeMessage 
-from estimation_message import EstimationMessage
-from jira_message import JiraMessage
-from debug_message import DebugMessage
-from excuses_message import ExcusesMessage
+from messages.welcome_message import WelcomeMessage 
+from messages.estimation_message import EstimationMessage
+from messages.jira_message import JiraMessage
+from messages.debug_message import DebugMessage
+from messages.excuses_message import ExcusesMessage
 from settings import __bot_user_id__
 import time
 import os

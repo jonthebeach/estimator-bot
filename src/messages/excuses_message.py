@@ -10,7 +10,7 @@ class ExcusesMessage:
   def __init__(self, bot):
     self.bot = bot
     self.words = [':excuse']
-    self.excuses = [, "What about security?", "Consider caching issues", "Browser compatibility may be a concern", "documentation can be hard ot write"]
+    self.excuses = ["What about security?", "Consider caching issues", "Browser compatibility may be a concern", "documentation can be hard ot write"]
 
   def listenTo(self, channel, message, event):
     return any([word in message.lower() for word in self.words])
