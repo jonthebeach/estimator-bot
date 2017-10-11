@@ -8,7 +8,3 @@ Never again get worried about giving an estimation when having no idea at all wh
 pip install -r requirements.txt
 SLACK_BOT_TOKEN=<bot> python src/main.py
 ```
-
-### Additional Information
-********************************************************************************************
-For comprehensive method information and usage examples, see the `full documentation`_.
