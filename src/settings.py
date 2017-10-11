@@ -10,3 +10,4 @@ __version__ = "1.0.0"
 __status__ = "Alpha"
 
 __jira_server__ = "https://pebl.itrsgroup.com"
+__bot_user_id__ = "U6ET31TBK"
