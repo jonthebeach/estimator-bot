@@ -4,7 +4,7 @@ Never again get worried about giving an estimation when having no idea at all wh
 
 ### Running the bot
 
-```python
+```
 pip install -r requirements.txt
-SLACK_BOT_TOKEN=<bot> python src/main.py
+SLACK_BOT_TOKEN=<bot_token> SLACK_BOT_JIRA_USER=<jira_username> SLACK_BOT_JIRA_PASS=<jira_password> python src/main.py
 ```
