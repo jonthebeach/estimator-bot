@@ -1,6 +1,6 @@
 ## Estimator-bot
 
-Never again get worried about giving an estimation when having no idea at all what to answer in a Scrum planning/grooming meeting. This basic bot will assit you in estimating user stories. It estimates user stories based on its contents and uses deep learning to improve estimations over time. It currently works only for Jira and estimations are given as fibonacci based story points.
+Never again get worried about giving an estimation when having no idea at all what to answer in a Scrum planning/grooming meeting. This basic bot will assit you in estimating user stories. It estimates user stories based on its contents and uses deep learning to improve estimations over time. It currently works only for Jira and estimations are given as fibonacci based story points. Recorded live demo [here](http://recordit.co/5SVQ2KMX5J)
 
 ### Running the bot
 

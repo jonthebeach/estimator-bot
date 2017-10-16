@@ -6,5 +6,5 @@ from bot import Bot
 import settings
 
 if __name__ == "__main__":
-  print("Running bot v{0} ...".format(settings.__version__))
-  Bot().start()
+    print("Running bot v{0} ...".format(settings.__version__))
+    Bot().start()
